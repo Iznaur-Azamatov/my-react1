@@ -1,0 +1,18 @@
+.app {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+
+.completed-todos,
+.nocompleted-todos {
+width: 45%;
+}
+
+.completed {
+color: green;
+}
+
+.nocompleted {
+color: red;
+}
